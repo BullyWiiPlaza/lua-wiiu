@@ -9,7 +9,7 @@ Make sure to have [devkitPro](https://devkitpro.org/wiki/Getting_Started) instal
 * Run `make` to compile
 * Run `make install` to install lua into your `wut` installation
 
-## Using lua
-In your project you can then include the usual lua headers like `lua.h` or `lua.hpp`.
+## Using Lua
+In your project you can then include the usual Lua headers like `lua.h` or `lua.hpp`.
 
-Also remember to link against the lua library via `-llua`.
+Also remember to link against the Lua library via `-llua`.
