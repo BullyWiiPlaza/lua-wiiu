@@ -11,3 +11,5 @@ Make sure to have [devkitPro](https://devkitpro.org/wiki/Getting_Started) instal
 
 ## Using lua
 In your project you can then include the usual lua headers like `lua.h` or `lua.hpp`.
+
+Also remember to link against the lua library via `-llua`.
